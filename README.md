@@ -1,5 +1,5 @@
 # Amazon Prime Power BI Dashboard
-![Dashboard](C:\Users\RIYA\Desktop\DATA_ANALYST\POWERBI\AMAZONE-PRIME\amazone.png)
+![](C:\Users\RIYA\Desktop\DATA_ANALYST\POWERBI\AMAZONE-PRIME\amazone.png)
 
 ## Introduction
 
