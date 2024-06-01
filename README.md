@@ -1,5 +1,5 @@
 # Amazon Prime Power BI Dashboard
-![](test/amazone.png)
+![](1505-Riya\test\amazone.png)
 
 ## Introduction
 
