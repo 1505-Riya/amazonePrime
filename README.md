@@ -1,5 +1,6 @@
 # Amazon Prime Power BI Dashboard
-![img]([/assets/images/amazone.png](https://github.com/1505-Riya/test/blob/master/amazone.png)
+![Dashboard Screenshot](https://github.com/1505-Riya/test/amazone.png)
+
 
 ## Introduction
 
