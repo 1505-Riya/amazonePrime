@@ -1,6 +1,6 @@
 # Amazon Prime Power BI Dashboard
+!C:\Users\RIYA\Desktop\DATA_ANALYST\POWERBI\AMAZONE-PRIME\amazone.png
 
-![Dashboard Screenshot](path/to/your/dashboard-screenshot.png)
 
 
 
